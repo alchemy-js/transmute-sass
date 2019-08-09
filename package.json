@@ -1,6 +1,6 @@
 {
   "name": "@alchemy-js/transmute-sass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transmute Sass with Alchemy",
   "main": "index.js",
   "scripts": {
